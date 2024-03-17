@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/R.27514d8d18f6eea4cf339b20138bae32?rik=2nXXYmzBgGjynQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kizito .K. Nwaka</h1>
 <h3 align="center">A passionate Software Engineer from your friendly neighborhood</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif"/>
